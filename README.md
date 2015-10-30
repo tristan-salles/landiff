@@ -1,7 +1,7 @@
 # landiff - a simple parallel multi-lithology non-linear diffusion model of hillslope dynamic
 
 <div align="center">
-    <img width=400 src="https://github.com/badlands-model/Badlands-doc/blob/master/figures/riseofthephoenix.png" alt="multi-diffusion" title="landiff example"</img>
+    <img width=400 src="https://github.com/badlands-model/landiff/blob/master/ex2/test2.png" alt="multi-diffusion" title="landiff example"</img>
 </div>
 
 
