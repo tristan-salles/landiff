@@ -1,7 +1,7 @@
 # landiff - a simple parallel multi-lithology non-linear diffusion model of hillslope dynamic
 
 <div align="center">
-    <img width=400 src="https://github.com/badlands-model/landiff/blob/master/ex1/test1.png" alt="multi-diffusion" title="landiff example"</img>
+    <img width=500 src="https://github.com/badlands-model/landiff/blob/master/ex1/test1.png" alt="multi-diffusion" title="landiff example"</img>
 </div>
 
 ## The problem
@@ -112,7 +112,7 @@ The parallelisation is simply done by splitting the regular grid between process
 Two examples are provided for testing purposes. You will need to manually edit the main files to change some specific variables such as the number of lithology or the coefficient of diffusion for marine and aerial environment.
 
 <div align="center">
-    <img width=400 src="https://github.com/badlands-model/landiff/blob/master/ex2/test2.png" alt="multi-diffusion" title="landiff example"</img>
+    <img width=500 src="https://github.com/badlands-model/landiff/blob/master/ex2/test2.png" alt="multi-diffusion" title="landiff example"</img>
 </div>
 
 
