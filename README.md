@@ -1,5 +1,10 @@
 # landiff - a simple parallel multi-lithology non-linear diffusion model of hillslope dynamic
 
+<div align="center">
+    <img width=400 src="https://github.com/badlands-model/Badlands-doc/blob/master/figures/riseofthephoenix.png" alt="multi-diffusion" title="landiff example"</img>
+</div>
+
+
 ## The problem
 
 The simple creep diffusion equation for single lithology has the basic form:
