@@ -101,10 +101,13 @@ with condition *(c1)* corresponding to ![equation](http://latex.codecogs.com/gif
 
 ## Parallelisation
 
+The parallelisation is simply done by splitting the regular grid between processors using either the rows or columns.
 
 ## Examples
 
+Two examples are provided for testing purposes. You will need to manually edit the main files to change some specific variables such as the number of lithology or the coefficient of diffusion for marine and aerial environment.
 
+The results are CSV files that could be open in Paraview... or anything else!
 
 
 ## References
